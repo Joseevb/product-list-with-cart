@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Waffle with Berries",
+		"type": "Waffle",
+		"price": 6.5,
+		"image": {
+			"desktop": "image-waffle-desktop.jpg",
+			"mobile": "image-waffle-mobile.jpg",
+			"tablet": "image-waffle-tablet.jpg"
+		}
+	},
+	{
+		"name": "Vanilla Bean Crème Brûlée",
+		"type": "Crème Brûlée",
+		"price": 7.0,
+		"image": {
+			"desktop": "image-creme-brulee-desktop.jpg",
+			"mobile": "image-creme-brulee-mobile.jpg",
+			"tablet": "image-creme-brulee-tablet.jpg"
+		}
+	},
+	{
+		"name": "Macaron Mix of Five",
+		"type": "Macaron",
+		"price": 8.0,
+		"image": {
+			"desktop": "image-macaron-desktop.jpg",
+			"mobile": "image-macaron-mobile.jpg",
+			"tablet": "image-macaron-tablet.jpg"
+		}
+	},
+	{
+		"name": "Classic Tiramisu",
+		"type": "Tiramisu",
+		"price": 5.5,
+		"image": {
+			"desktop": "image-tiramisu-desktop.jpg",
+			"mobile": "image-tiramisu-mobile.jpg",
+			"tablet": "image-tiramisu-tablet.jpg"
+		}
+	},
+	{
+		"name": "Pistachio Baklava",
+		"type": "Baklava",
+		"price": 4.0,
+		"image": {
+			"desktop": "image-baklava-desktop.jpg",
+			"mobile": "image-baklava-mobile.jpg",
+			"tablet": "image-baklava-tablet.jpg"
+		}
+	},
+	{
+		"name": "Lemon Meringue Pie",
+		"type": "Pie",
+		"price": 5.0,
+		"image": {
+			"desktop": "image-meringue-desktop.jpg",
+			"mobile": "image-meringue-mobile.jpg",
+			"tablet": "image-meringue-tablet.jpg"
+		}
+	},
+	{
+		"name": "Red Velvet Cake",
+		"type": "Cake",
+		"price": 4.5,
+		"image": {
+			"desktop": "image-cake-desktop.jpg",
+			"mobile": "image-cake-mobile.jpg",
+			"tablet": "image-cake-tablet.jpg"
+		}
+	},
+	{
+		"name": "Salted Caramel Brownie",
+		"type": "Brownie",
+		"price": 4.5,
+		"image": {
+			"desktop": "image-brownie-desktop.jpg",
+			"mobile": "image-brownie-mobile.jpg",
+			"tablet": "image-brownie-tablet.jpg"
+		}
+	},
+	{
+		"name": "Vanilla Panna Cotta",
+		"type": "Panna Cotta",
+		"price": 6.5,
+		"image": {
+			"desktop": "image-panna-cotta-desktop.jpg",
+			"mobile": "image-panna-cotta-mobile.jpg",
+			"tablet": "image-panna-cotta-tablet.jpg"
+		}
+	}
+]
